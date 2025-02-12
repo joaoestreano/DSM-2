@@ -1,0 +1,7 @@
+npm create vite@latest front -- --template react-ts
+
+cd front  npm i
+
+npm run dev
+
+
