@@ -1,0 +1,24 @@
+{
+  "name": "aula-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "Exercicio-01":"ts-node src/Exercicio-01.ts",
+    "Exercicio-02":"ts-node src/Exercicio-02.ts",
+    "Exercicio-03":"ts-node src/Exercicio-03.ts",
+    "Exercicio-04":"ts-node src/Exercicio-04.ts",
+    "Exercicio-05":"ts-node src/Exercicio-05.ts",
+    "Exercicio-06":"ts-node src/Exercicio-06.ts",
+    "Exercicio-07":"ts-node src/Exercicio-07.ts",
+    "Exercicio-08":"ts-node src/Exercicio-08.ts",
+    "Exercicio-09":"ts-node src/Exercicio-09.ts",
+    "Exercicio-10":"ts-node src/Exercicio-10.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
