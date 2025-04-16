@@ -1,0 +1,19 @@
+{
+  "name": "aula-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "Exercicio-01": "ts-node src/Exercicio-01.ts",
+    "Exercicio-02": "ts-node src/Exercicio-02.ts",
+    "Exercicio-03": "ts-node src/Exercicio-03.ts",
+    "Exercicio-04": "ts-node src/Exercicio-04.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
